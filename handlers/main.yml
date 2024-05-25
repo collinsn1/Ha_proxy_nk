@@ -1,0 +1,9 @@
+---
+# handlers file for collinsnk_HaProxy
+#
+
+- name: restart haproxy
+  systemd:
+    name: haproxy
+    state: restarted
+

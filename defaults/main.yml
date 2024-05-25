@@ -1,0 +1,6 @@
+---
+# defaults file for collinsnk_HaProxy
+
+node2_ip: 10.12.50.203
+node3_ip: 10.12.50.20
+
